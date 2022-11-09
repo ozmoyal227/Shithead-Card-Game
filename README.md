@@ -1,18 +1,10 @@
-## Getting Started
+## Shithead Card Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository consists of Java Program for the card game Shithead(Limited version). In this repository I have created an input base game which consists of 3 different main classes:
+(1) Card - Holds all cards representations, Includes Numerical cards and Wildcards of this game logic.
+(2) Player - Manages players operations and characteristics , Human and AI player.
+(3) Game - Responsible of all game logic and flow.
 
-## Folder Structure
+The Program is completely based on OOPs concept.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+To run program run App.java file in src folder.
